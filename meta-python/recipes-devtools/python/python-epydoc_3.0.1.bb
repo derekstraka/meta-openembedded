@@ -12,7 +12,6 @@ RDEPENDS_${PN} += "\
     ${PYTHON_PN}-codecs \
     ${PYTHON_PN}-pickle \
     ${PYTHON_PN}-stringold \
-    ${PYTHON_PN}-re \
     ${PYTHON_PN}-xml \
     "
 
