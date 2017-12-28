@@ -5,5 +5,4 @@ require python-whoosh.inc
 RDEPENDS_${PN} += " \
     ${PYTHON_PN}-enum \
     ${PYTHON_PN}-misc \
-    ${PYTHON_PN}-selectors \
 "
