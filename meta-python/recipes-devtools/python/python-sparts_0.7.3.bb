@@ -10,7 +10,6 @@ inherit pypi setuptools
 RDEPENDS_${PN} = "\
                python-subprocess \
                python-six \
-               python-argparse \
                python-re \
                python-shell \
                python-threading \
