@@ -19,7 +19,6 @@ RDEPENDS_${PN}_class-target += " \
     ${PYTHON_PN}-io \
     ${PYTHON_PN}-netclient \
     ${PYTHON_PN}-textutils \
-    ${PYTHON_PN}-subprocess \
 "
 
 BBCLASSEXTEND = "native"

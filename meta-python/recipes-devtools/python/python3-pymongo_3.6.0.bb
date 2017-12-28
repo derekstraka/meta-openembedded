@@ -6,5 +6,4 @@ RDEPENDS_${PYTHON_PN}-bson += " \
     ${PYTHON_PN}-enum \
     ${PYTHON_PN}-misc \
     ${PYTHON_PN}-selectors \
-    ${PYTHON_PN}-subprocess \
 "

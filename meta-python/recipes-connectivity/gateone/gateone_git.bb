@@ -72,7 +72,6 @@ RDEPENDS_${PN} = "mime-support \
                   python-setuptools \
                   python-shell \
                   python-simplejson \
-                  python-subprocess \
                   python-syslog \
                   python-terminal \
                   python-textutils \

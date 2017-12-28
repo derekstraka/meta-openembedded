@@ -20,7 +20,6 @@ RDEPENDS_${PN} += " \
     ${PYTHON_PN}-rfc3987 \
     ${PYTHON_PN}-shell \
     ${PYTHON_PN}-strict-rfc3339 \
-    ${PYTHON_PN}-subprocess \
     ${PYTHON_PN}-textutils \
     ${PYTHON_PN}-unittest \
 "

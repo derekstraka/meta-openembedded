@@ -17,5 +17,4 @@ RDEPENDS_${PN} = "\
                ${PYTHON_PN}-io \
                ${PYTHON_PN}-netclient \
                ${PYTHON_PN}-threading \
-               ${PYTHON_PN}-subprocess \
 "
