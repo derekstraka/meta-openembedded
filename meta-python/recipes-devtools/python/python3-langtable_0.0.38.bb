@@ -24,7 +24,6 @@ FILES_${PN} += "${datadir}/*"
 RDEPENDS_${PN} += " \
     ${PYTHON_PN}-compression \
     ${PYTHON_PN}-doctest \
-    ${PYTHON_PN}-enum \
     ${PYTHON_PN}-logging \
     ${PYTHON_PN}-xml \
 "
