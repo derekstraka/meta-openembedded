@@ -74,7 +74,6 @@ RDEPENDS_${PN} = "mime-support \
                   python-simplejson \
                   python-syslog \
                   python-terminal \
-                  python-textutils \
                   python-tornado \
                   python-unixadmin \
                   python-xml \

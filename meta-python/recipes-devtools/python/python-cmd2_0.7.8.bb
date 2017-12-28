@@ -16,5 +16,4 @@ RDEPENDS_${PN} += "\
     ${PYTHON_PN}-six \
     ${PYTHON_PN}-stringold \
     ${PYTHON_PN}-threading \
-    ${PYTHON_PN}-textutils \
     "
